@@ -1,0 +1,12 @@
+Tareas pendientes:
+- [ ] Tarea 1
+- [ ] Tarea 2
+- [ ] Tarea 3
+
+Tareas realizadas:
+- [x] Tarea 4
+- [x] Tarea 5
+
+Tareas bloqueadas:
+- [ ] Tarea 6
+- [ ] Tarea 7
