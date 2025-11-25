@@ -42,3 +42,22 @@ No tenía claro qué incluir en el README, especialmente en las secciones de flu
 
 # Conclusion del dia
 La actividad de hoy me permitió comprender el proceso completo: crear un repositorio, hacer commits y enviar cambios a GitHub. Me di cuenta de la importancia del orden de los pasos y de documentar bien el proyecto. A pesar de algunos problemas iniciales, pude resolverlos y reforzar lo aprendido.
+
+## Problemas del día
+Hoy enfrenté problemas al configurar el archivo .gitignore correctamente.  
+Al principio, Git seguía mostrando archivos que quería ignorar porque ya estaban siendo trackeados.  
+También tuve que aprender a usar ramas y Pull Requests correctamente, lo cual fue nuevo para mí.
+
+## ¿Qué aprendí hoy?
+Aprendí a crear y usar ramas en Git (`git checkout -b`), a hacer commits y push de manera ordenada,  
+y a manejar un flujo de trabajo profesional con Pull Requests y merges.  
+También entendí cómo funciona .gitignore y cómo proteger archivos sensibles como `.env`.
+
+## ¿Qué fue lo más difícil?
+Lo más difícil fue entender por qué algunos archivos aparecían en Git a pesar de estar en .gitignore,  
+y aprender a “destrackearlos” sin borrarlos del proyecto.  
+También fue un poco desafiante simular un flujo profesional completo siguiendo todos los pasos.
+
+## Conclusión del taller
+Este taller me permitió practicar un flujo real de trabajo con Git, incluyendo ramas, commits, PRs y merges.  
+Ahora tengo más confianza para trabajar en proyectos colaborativos y mantener el repositorio limpio y organizado.  
